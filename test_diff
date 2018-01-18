@@ -1,7 +1,7 @@
 #include<stdio.h>
 int add(int x, int y)
 {
-    int m;
+#    int m;
     return x+y;
 }
 int main()
