@@ -1,10 +1,12 @@
 #include<stdio.h>
 int add(int x, int y)
 {
+    int m;
     return x+y;
 }
 int main()
 {
     printf("I am v1");
+    printf("I am v2");
     return 0;
 }
